@@ -7,7 +7,7 @@
 ## Setup
 
 * Clone the repo and run `cd bstack_playwright_specflow `
-Set env variable BROWSERSTACK_USERNAME="browserstack_username" and BROWSERSTACK_ACCESS_KEY="browserstack_accessKey" 
+* Set env variable BROWSERSTACK_USERNAME="browserstack_username" and BROWSERSTACK_ACCESS_KEY="browserstack_accessKey" 
 * Run `dotnet build`
 
 ## Running your tests
